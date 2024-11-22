@@ -1,5 +1,4 @@
-﻿using Doing.Retail.Core.CrossCuttingConcerns.Logging.Serilog.ConfigurationModels;
-using Microsoft.Extensions.Configuration;
+﻿using Microsoft.Extensions.Configuration;
 using Moongazing.SafeLog.Logging.SeriLog.ConfigurationModels;
 using Moongazing.SafeLog.Logging.SeriLog.Messages;
 using Serilog;
