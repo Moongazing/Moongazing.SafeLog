@@ -4,6 +4,21 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Moongazing.SafeLog</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Tunahan Ali Ozturk</Authors>
+    <Company>Tunahan Ali Ozturk</Company>
+    <Product>SafeLog</Product>
+    <Description>
+      A comprehensive exception handling and logging library for .NET applications,
+      featuring Serilog integration, centralized exception management, and standardized HTTP responses.
+    </Description>
+    <PackageTags>logging serilog exceptions middleware aspnetcore</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/Moongazing/SafeLog</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Moongazing/SafeLog</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
